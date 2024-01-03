@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.PAL.Forms.FormLogin.resources
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.Properties.Resources.resources
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\absensi\absensi\bin\Debug\absensi.exe.config
+C:\Users\ACER\source\repos\absensi\absensi\bin\Debug\absensi.exe
+C:\Users\ACER\source\repos\absensi\absensi\bin\Debug\absensi.pdb
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.exe
+C:\Users\ACER\source\repos\absensi\absensi\obj\Debug\absensi.pdb
